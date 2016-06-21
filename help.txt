@@ -1,7 +1,9 @@
 <html>
-<style type="text/css">
-    font-size:34px;
+<head>
+<style type=\"text/css\">
+    body{font-family: '-apple-system','HelveticaNeue'; font-size:17;}
 </style>
+</head>
 <body>
 <br>
 What is Social Spy? Social Spy is an application that tracks your social media interactions.<br>
