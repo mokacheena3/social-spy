@@ -1,6 +1,6 @@
 <html>
 <head>
-<style type=\"text/css\">
+<style type="text/css">
     body{font-family: '-apple-system','HelveticaNeue'; font-size:17;}
 </style>
 </head>
