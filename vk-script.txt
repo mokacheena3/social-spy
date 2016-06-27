@@ -1,0 +1,21 @@
+has_class = function( elem, klass ) {
+    return (' ' + elem.className + ' ').indexOf(' ' + klass + ' ') > -1;
+}
+
+getLinks = function () {
+
+    var links = document.getElementsByTagName('a');
+    var hrefs = '';
+
+    for(var i=0; i < links.length; i++){
+        if (has_class(links[i], 'pi_author')){
+            hrefs = hrefs + '|' + links[i].href;
+        }
+        else if (has_class(links[i], 'medias_thumb thumb_item')){
+            hrefs = hrefs + '|' + links[i].href;
+        }
+    }
+    return hrefs;
+};
+
+getLinks();
