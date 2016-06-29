@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>product_id</key>
+		<string>com.petrstoychek.socialspy.daily</string>
+		<key>title</key>
+		<string>Ежедневно</string>
+		<key>divide_value</key>
+		<integer>60</integer>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.petrstoychek.socialspy.weekly</string>
+		<key>title</key>
+		<string>Еженедельно</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.petrstoychek.socialspy.1month</string>
+		<key>title</key>
+		<string>1 месяц</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+	</dict>
+</array>
+</plist>
