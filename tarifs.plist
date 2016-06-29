@@ -26,5 +26,13 @@
 		<key>divide_value</key>
 		<integer>1</integer>
 	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.petrstoychek.socialspy.year</string>
+		<key>title</key>
+		<string>Ежедневно (годовая)</string>
+		<key>divide_value</key>
+		<integer>365</integer>
+	</dict>
 </array>
 </plist>
