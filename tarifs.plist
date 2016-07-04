@@ -9,6 +9,8 @@
 		<string>Еженедельно</string>
 		<key>divide_value</key>
 		<integer>1</integer>
+		<key>badge</key>
+		<string></string>
 	</dict>
 	<dict>
 		<key>product_id</key>
@@ -17,6 +19,8 @@
 		<string>Ежемесячно</string>
 		<key>divide_value</key>
 		<integer>1</integer>
+		<key>badge</key>
+		<string></string>
 	</dict>
 	<dict>
 		<key>product_id</key>
@@ -25,6 +29,8 @@
 		<string>2 месяца</string>
 		<key>divide_value</key>
 		<integer>1</integer>
+		<key>badge</key>
+		<string></string>
 	</dict>
 	<dict>
 		<key>product_id</key>
@@ -33,6 +39,8 @@
 		<string>Год</string>
 		<key>divide_value</key>
 		<integer>1</integer>
+		<key>badge</key>
+		<string>скидка 60%</string>
 	</dict>
 </array>
 </plist>
