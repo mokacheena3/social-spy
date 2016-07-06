@@ -16,31 +16,11 @@
 		<key>product_id</key>
 		<string>com.petrstoychek.socialspy.1month</string>
 		<key>title</key>
-		<string>Ежемесячно</string>
+		<string>Месяц</string>
 		<key>divide_value</key>
 		<integer>1</integer>
 		<key>badge</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>product_id</key>
-		<string>com.petrstoychek.socialspy.daily</string>
-		<key>title</key>
-		<string>2 месяца</string>
-		<key>divide_value</key>
-		<integer>1</integer>
-		<key>badge</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>product_id</key>
-		<string>com.petrstoychek.socialspy.year</string>
-		<key>title</key>
-		<string>Год</string>
-		<key>divide_value</key>
-		<integer>1</integer>
-		<key>badge</key>
-		<string>скидка 60%</string>
+		<string>-50%</string>
 	</dict>
 </array>
 </plist>
