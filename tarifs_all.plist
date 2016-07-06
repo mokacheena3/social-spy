@@ -69,6 +69,6 @@
 	</dict>
 </array>
 <key>default_tarifs</key>
-<string>alternative</string>
+<string>main</string>
 </dict>
 </plist>
