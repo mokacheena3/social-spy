@@ -49,7 +49,7 @@
 	</dict>
 </array>
 <key>default_tarifs</key>
-<string>alternative</string>
+<string>main</string>
 <key>alternative_delay_time</key>
 <integer>1800</integer>
 </dict>
