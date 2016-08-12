@@ -9,8 +9,10 @@
 		<string>com.petrstoychek.socialspy.weekly</string>
 		<key>title</key>
 		<string>Еженедельно</string>
+		<key>price_title</key>
+		<string>7 days FREE</string>
 		<key>divide_value</key>
-		<integer>1</integer>
+		<integer>-1</integer>
 		<key>badge</key>
 		<string></string>
 	</dict>
@@ -19,6 +21,8 @@
 		<string>com.petrstoychek.socialspy.1month</string>
 		<key>title</key>
 		<string>Ежедневно</string>
+		<key>price_title</key>
+		<string>7 days FREE</string>
 		<key>divide_value</key>
 		<integer>30</integer>
 		<key>badge</key>
