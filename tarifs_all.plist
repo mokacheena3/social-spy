@@ -12,7 +12,7 @@
 		<key>price_title</key>
 		<string>7 days FREE</string>
 		<key>divide_value</key>
-		<integer>-1</integer>
+		<integer>1</integer>
 		<key>badge</key>
 		<string></string>
 	</dict>
