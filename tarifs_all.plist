@@ -60,5 +60,7 @@
 <string>main</string>
 <key>alternative_delay_time</key>
 <integer>1800</integer>
+<key>is_live</key>
+<true/>
 </dict>
 </plist>
